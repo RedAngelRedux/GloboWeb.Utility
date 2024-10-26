@@ -9,3 +9,15 @@ C:\Users\redan\Documents\Source\Repos\TimCorey_Mastercourse_CSharp_2024\MiniProj
 C:\Users\redan\Documents\Source\Repos\TimCorey_Mastercourse_CSharp_2024\MiniProjects\GloboWeb.Utility\obj\Debug\net8.0\refint\GloboWeb.Utility.dll
 C:\Users\redan\Documents\Source\Repos\TimCorey_Mastercourse_CSharp_2024\MiniProjects\GloboWeb.Utility\obj\Debug\net8.0\GloboWeb.Utility.pdb
 C:\Users\redan\Documents\Source\Repos\TimCorey_Mastercourse_CSharp_2024\MiniProjects\GloboWeb.Utility\obj\Debug\net8.0\ref\GloboWeb.Utility.dll
+C:\Users\redan\Documents\Source\Repos\GloboWeb\Libraries\GloboWeb.Utility\bin\Debug\net8.0\GloboWeb.Utility.deps.json
+C:\Users\redan\Documents\Source\Repos\GloboWeb\Libraries\GloboWeb.Utility\bin\Debug\net8.0\GloboWeb.Utility.dll
+C:\Users\redan\Documents\Source\Repos\GloboWeb\Libraries\GloboWeb.Utility\bin\Debug\net8.0\GloboWeb.Utility.pdb
+C:\Users\redan\Documents\Source\Repos\GloboWeb\Libraries\GloboWeb.Utility\obj\Debug\net8.0\GloboWeb.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redan\Documents\Source\Repos\GloboWeb\Libraries\GloboWeb.Utility\obj\Debug\net8.0\GloboWeb.Utility.AssemblyInfoInputs.cache
+C:\Users\redan\Documents\Source\Repos\GloboWeb\Libraries\GloboWeb.Utility\obj\Debug\net8.0\GloboWeb.Utility.AssemblyInfo.cs
+C:\Users\redan\Documents\Source\Repos\GloboWeb\Libraries\GloboWeb.Utility\obj\Debug\net8.0\GloboWeb.Utility.csproj.CoreCompileInputs.cache
+C:\Users\redan\Documents\Source\Repos\GloboWeb\Libraries\GloboWeb.Utility\obj\Debug\net8.0\GloboWeb.Utility.sourcelink.json
+C:\Users\redan\Documents\Source\Repos\GloboWeb\Libraries\GloboWeb.Utility\obj\Debug\net8.0\GloboWeb.Utility.dll
+C:\Users\redan\Documents\Source\Repos\GloboWeb\Libraries\GloboWeb.Utility\obj\Debug\net8.0\refint\GloboWeb.Utility.dll
+C:\Users\redan\Documents\Source\Repos\GloboWeb\Libraries\GloboWeb.Utility\obj\Debug\net8.0\GloboWeb.Utility.pdb
+C:\Users\redan\Documents\Source\Repos\GloboWeb\Libraries\GloboWeb.Utility\obj\Debug\net8.0\ref\GloboWeb.Utility.dll

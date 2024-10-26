@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GloboWeb.Utility
-build_property.ProjectDir = C:\Users\redan\Documents\Source\Repos\TimCorey_Mastercourse_CSharp_2024\MiniProjects\GloboWeb.Utility\
+build_property.ProjectDir = C:\Users\redan\Documents\Source\Repos\GloboWeb\Libraries\GloboWeb.Utility\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
