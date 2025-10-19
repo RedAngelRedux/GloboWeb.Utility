@@ -21,3 +21,15 @@ C:\Users\redan\Documents\Source\Repos\GloboWeb\Libraries\GloboWeb.Utility\obj\De
 C:\Users\redan\Documents\Source\Repos\GloboWeb\Libraries\GloboWeb.Utility\obj\Debug\net8.0\refint\GloboWeb.Utility.dll
 C:\Users\redan\Documents\Source\Repos\GloboWeb\Libraries\GloboWeb.Utility\obj\Debug\net8.0\GloboWeb.Utility.pdb
 C:\Users\redan\Documents\Source\Repos\GloboWeb\Libraries\GloboWeb.Utility\obj\Debug\net8.0\ref\GloboWeb.Utility.dll
+C:\Users\redan\source\Repos\IAmTimCorey\CSharpChallenges\GloboWeb.Utility\bin\Debug\net8.0\GloboWeb.Utility.deps.json
+C:\Users\redan\source\Repos\IAmTimCorey\CSharpChallenges\GloboWeb.Utility\bin\Debug\net8.0\GloboWeb.Utility.dll
+C:\Users\redan\source\Repos\IAmTimCorey\CSharpChallenges\GloboWeb.Utility\bin\Debug\net8.0\GloboWeb.Utility.pdb
+C:\Users\redan\source\Repos\IAmTimCorey\CSharpChallenges\GloboWeb.Utility\obj\Debug\net8.0\GloboWeb.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redan\source\Repos\IAmTimCorey\CSharpChallenges\GloboWeb.Utility\obj\Debug\net8.0\GloboWeb.Utility.AssemblyInfoInputs.cache
+C:\Users\redan\source\Repos\IAmTimCorey\CSharpChallenges\GloboWeb.Utility\obj\Debug\net8.0\GloboWeb.Utility.AssemblyInfo.cs
+C:\Users\redan\source\Repos\IAmTimCorey\CSharpChallenges\GloboWeb.Utility\obj\Debug\net8.0\GloboWeb.Utility.csproj.CoreCompileInputs.cache
+C:\Users\redan\source\Repos\IAmTimCorey\CSharpChallenges\GloboWeb.Utility\obj\Debug\net8.0\GloboWeb.Utility.sourcelink.json
+C:\Users\redan\source\Repos\IAmTimCorey\CSharpChallenges\GloboWeb.Utility\obj\Debug\net8.0\GloboWeb.Utility.dll
+C:\Users\redan\source\Repos\IAmTimCorey\CSharpChallenges\GloboWeb.Utility\obj\Debug\net8.0\refint\GloboWeb.Utility.dll
+C:\Users\redan\source\Repos\IAmTimCorey\CSharpChallenges\GloboWeb.Utility\obj\Debug\net8.0\GloboWeb.Utility.pdb
+C:\Users\redan\source\Repos\IAmTimCorey\CSharpChallenges\GloboWeb.Utility\obj\Debug\net8.0\ref\GloboWeb.Utility.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\redan\\Documents\\Source\\Repos\\GloboWeb\\Libraries\\GloboWeb.Utility\\GloboWeb.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\redan\\source\\Repos\\IAmTimCorey\\CSharpChallenges\\GloboWeb.Utility\\GloboWeb.Utility.csproj",
       "projectName": "GloboWeb.Utility",
-      "projectPath": "C:\\Users\\redan\\Documents\\Source\\Repos\\GloboWeb\\Libraries\\GloboWeb.Utility\\GloboWeb.Utility.csproj",
+      "projectPath": "C:\\Users\\redan\\source\\Repos\\IAmTimCorey\\CSharpChallenges\\GloboWeb.Utility\\GloboWeb.Utility.csproj",
       "packagesPath": "C:\\Users\\redan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\redan\\Documents\\Source\\Repos\\GloboWeb\\Libraries\\GloboWeb.Utility\\obj\\",
+      "outputPath": "C:\\Users\\redan\\source\\Repos\\IAmTimCorey\\CSharpChallenges\\GloboWeb.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,7 +51,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -72,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
